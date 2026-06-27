@@ -46,3 +46,24 @@ class Session:
             self.enrolled_participants.append(participant)
             return True
         return False
+
+from typing import List
+
+class Conference:
+    """ Klasa reprezentująca konferencję. Przechowuje podstawowe dane wydarzenia oraz listy uczestników i paneli."""
+    def __init__(self, name: str, date: str):
+        """ Inicjalizuje obiekt konferencji."""
+        self.name: str = name
+        self.date: str = date
+        self.participants: List['Participant'] = []
+        self.sessions: List['Session'] = []
+
+    def add_participant(self, participant: 'Participant') -> None:
+        """ Dodaje uczestnika do listy uczestników konferencji."""
+        self.participants.append(participant)
+
+    def add_session(self, session: 'Session') -> None:
+        """Dodaje panel (wykład) do listy paneli na konferencji."""
+        self.sessions.append(session)
+
+
