@@ -126,7 +126,13 @@ Sukces: Zapisano uczestnika na panel.
 
 ## Zrzuty ekranu
 
-<!-- Dodaj zrzuty ekranu działającego programu -->
+<img width="470" height="314" alt="image" src="https://github.com/user-attachments/assets/4fa9a972-5abb-4c14-a913-2ac6ea2b6b2e" />
+<img width="415" height="305" alt="image" src="https://github.com/user-attachments/assets/bf6053a1-d8c4-447c-87aa-a93f209a90df" />
+<img width="343" height="249" alt="image" src="https://github.com/user-attachments/assets/682d18db-2eff-42d9-a1fb-f708e24967ad" />
+<img width="425" height="291" alt="image" src="https://github.com/user-attachments/assets/faa7dce2-341e-4aa6-8d4b-d8edbb8a374f" />
+<img width="683" height="209" alt="image" src="https://github.com/user-attachments/assets/e835b3da-92b2-4e1b-b19e-3074e9c72c6b" />
+<img width="463" height="206" alt="image" src="https://github.com/user-attachments/assets/8b760b94-7da7-455a-91e3-1e0f227a0f32" />
+<img width="410" height="250" alt="image" src="https://github.com/user-attachments/assets/6097a006-d357-451d-9625-de4e9cca6976" />
 
 ---
 
